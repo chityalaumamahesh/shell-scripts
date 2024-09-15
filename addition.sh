@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+#debugging
 set -u
 set -x
 set -o
